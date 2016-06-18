@@ -1,0 +1,40 @@
+{
+    "author": "octahedral.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "dnd-track",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "DnD Stat Tracker",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/action_icon_plus.png",
+                    "name": "IMAGE_ACTION_ICON_PLUS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/action_icon_minus.png",
+                    "name": "IMAGE_ACTION_ICON_MINUS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "1a207da9-16ea-4de0-8605-1369a8adc5a9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
